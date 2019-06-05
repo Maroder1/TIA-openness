@@ -10,6 +10,6 @@ How to set up:
 4. Open console (type CMD in windows searchbar)
 5. install pythonnet: "pip install pythonnet"
 6. Optional: create a virtual env, e.g. using anaconda/miniconda
-7. Optional: install an editor of choice e.g. jupyter, pycharm, notepad++ or just use the Notepad
+7. Optional: install an editor of choice e.g. jupyter, pycharm, notepad++ or just use standard Notepad
 8. Change the path in the example file to your local Siemens.Engineering.dll
 
