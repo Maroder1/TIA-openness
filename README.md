@@ -16,7 +16,7 @@
  7. Browse to the location of the example file and type: *Python openness.py*
 
 
-**Option 2, running in a virtual environment(in this example using Miniconda (Anaconda))**
+**Option 2, running in a Virtual environment(in this example using Miniconda (Anaconda))**
 
  1. [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html)
  2. Open Command Prompt (CMD)
