@@ -23,7 +23,7 @@
  3. Create a new environment by typing: *conda create --name opennesspy python=3.7*
  4. Actiavte the environment: *conda activate opennesspy*
  5. Install pythonnet by typing: *pip install pythonnet*  Note: installing using *conda install* didnt work.
- 6. Browse to the location of the example file and type: *Python openness.py*
+ 6. Browse to the location of the example file and type: *Python opennesspy.py*
  7. To leave the environment type *conda deactiave opennesspy*
  
  Optional: instead of manually installing use the provided environment.yml file
