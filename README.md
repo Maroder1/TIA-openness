@@ -4,7 +4,7 @@
 
  1. Install TIA v15.1 professional, make sure openness is checked [default]
 	[Link to TIA v15.1 trail](https://support.industry.siemens.com/cs/ww/en/view/109761045)
- 2. Right clik "My computer" -> Manage -> System tools -> Local users and groups - > Groups-> Double click "Siemens TIA Openness and add your username
+ 2. Right clik "My computer" -> Manage -> System tools -> Local users and groups - > Groups-> Double click “Siemens TIA Openness” and add your username
  3. Edit the file path in the example file to match your installation of Siemens.Engineering.dll
  4. [Download and install Python](www.python.org)
 
