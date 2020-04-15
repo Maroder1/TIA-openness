@@ -1,9 +1,13 @@
-## Basic example on how to use openness with Python using Pythonnet
+# Basic example on how to use openness with Python using Pythonnet     
 
-**More examples on how to use Openness with Python: https://github.com/Maroder1/Openness_examples_python**
+    
+## More examples on how to use Openness with Python: 
+https://github.com/Maroder1/Openness_examples_python  
+
+ 
 
 
-**Installation of TIA Openness**
+## Installation of TIA Openness
 
  1. Install TIA v15.1 professional, make sure openness is checked [default]
 	[Link to TIA v15.1 trail](https://support.industry.siemens.com/cs/ww/en/view/109761045)
@@ -12,14 +16,14 @@
  4. [Download and install Python](www.python.org)
 
 
-**Option 1, running directly (not recommended)**
+## Option 1, running directly (not recommended)
 
  1. in the windows search bar type "command prompt" to open Command Promt (CMD)
  2. Install pythonnet by typing: *pip install pythonnet*
  3. Browse to the location of the example file and type: *Python opennesspy.py*
 
 
-**Option 2, running in a Virtual environment(in this example using Miniconda (Anaconda))**
+## Option 2, running in a Virtual environment(in this example using Miniconda (Anaconda))
 
  1. [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html)
  2. Open Command Prompt (CMD)
@@ -32,7 +36,7 @@
  Optional: instead of manually installing use the provided environment.yml file
  
  
-**Recommandation: develop using Jupyter Notebook**
+## Recommandation: develop using Jupyter Notebook
 
  1. Start Command Promt (CMD) as **administrator** (right click). Do not enter any environment yet.
  2. Install Jupyter (and nb_conda as well as ipykernel to get your environments listed: *conda install jupyter nb_conda ipykernel*
